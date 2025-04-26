@@ -1,4 +1,4 @@
-**Project Title: Investigating the Relationship Between Annual Report Tone and Market Variables in Vietnamese Firms**
+**Project Title: SENTIMENT ANALYSIS IN NEWS ON ANNUAL REPORTS AND SOCIAL MEDIA OF COMPANY LIST IN VIET NAM**
 
 ***Overview***
 This study investigates the relationship between the tone of annual reports and social media content issued by a sample of listed Vietnamese firms, analyzing its impact on various market variables, including trading volume and price volatility.
